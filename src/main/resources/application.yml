@@ -1,0 +1,8 @@
+server:
+  port: 8080 #port number example value
+  address: 0.0.0.0 #localhost example value
+  servlet:
+    context-path: /app #servlet context path
+spring:
+  application:
+    name: special app #app name
